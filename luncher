@@ -1,10 +1,10 @@
 {
   "data": [
 {    
-      "admob_appopen":"AAAAca-app-pub-3940256099942544/3419835294",
-      "appInterstrialid":"AAAAca-app-pub-3940256099942544/1033173712",
-      "appNativeid":"AAAAca-app-pub-3940256099942544/2247696110",
-      "appBannerid":"AAAAca-app-pub-3940256099942544/6300978111"
+      "admob_appopen":"1234",
+      "appInterstrialid":"ca-app-pub-2386030812946183/7089485161",
+      "appNativeid":"ca-app-pub-2386030812946183/1008412107",
+      "appBannerid":"ca-app-pub-2386030812946183/5522372184"
 }
 ]
 }
